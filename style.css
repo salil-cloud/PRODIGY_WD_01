@@ -11,6 +11,7 @@
 
 html{
   font-size: 62.5%;
+  overflow: hidden;
 }
 
 section{
@@ -31,6 +32,7 @@ section{
 
 .header .logo img{
   height: 6rem;
+  filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
 }
 
 .header .navbar #close{
@@ -118,6 +120,22 @@ section{
 
 .home .image img{
   width: 100%;
+  filter: drop-shadow(15px 15px 20px rgba(0, 0, 0, 0.5));
+}
+
+.container {
+    position: fixed;
+    bottom: 0;
+    right: 1px;
+    left: 1px;
+    width: 100%;
+    padding: 5px;
+    color: #d3ad7f;
+    background: #2a201c;
+}
+
+.container .linkedin:hover{
+    color: #d3ad7f;
 }
 
 /* end */
@@ -135,6 +153,11 @@ section{
     padding: 2rem;
   }
 
+}
+
+
+.container .linkedin:hover {
+    color: #d3ad7f;
 }
 
 @media (max-width:768px){
