@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-# Coffee Shop Landing Page
+# Coffee Shop Landing Page : https://salil-cloud.github.io/PRODIGY_WD_01/
 
 Welcome to the Coffee Shop Landing Page project! This web page is designed to showcase your coffee shop and attract customers. Below, you'll find essential information to get you started with the project.
 
